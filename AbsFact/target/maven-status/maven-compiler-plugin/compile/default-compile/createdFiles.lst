@@ -1,0 +1,6 @@
+absLogic\Graphics\Graphic.class
+absLogic\Main.class
+absLogic\Shapes\Rectangle.class
+absLogic\Shapes\Shape.class
+absLogic\Colors\Color.class
+absLogic\AbstractFact.class
